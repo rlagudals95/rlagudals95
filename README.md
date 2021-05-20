@@ -1,6 +1,6 @@
 
 <h2 align="center"> ✋ This is Me 🤚 </h2>
-<p align="center"><a href="https://hmk1022.tistory.com/">
+<p align="center"><a href="https://velog.io/@mygomi">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -15,7 +15,7 @@
     
 <div align="center" style="display:flex">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagudals95&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miniPinetree&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
 
 </div>
 <br/>
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-    
+ <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 <h2 align="center"> 📲 Contact 📱 </h2>
 
 <p align="center">
-<a href="mailto:@gmail.com">
+<a href="mailto:mygomi05@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

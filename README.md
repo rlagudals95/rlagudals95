@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>    
      <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
+    
+     <img src="https://img.shields.io/badge/NextJs-0769AD?style=flat-square&logo=NextJs&logoColor=white"/>
 <br/>
          
 <h3> - I've used at least once - </h3>

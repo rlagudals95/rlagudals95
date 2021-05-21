@@ -43,7 +43,7 @@
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>    
      <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
     
-     <img src="https://img.shields.io/badge/NextJs-0769AD?style=flat-square&logo=NextJs&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Next.js-0769AD?style=flat-square&logo=Next.js&logoColor=white"/>
 <br/>
          
 <h3> - I've used at least once - </h3>

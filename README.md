@@ -1,11 +1,12 @@
 
 <h2 align="center"> ✋ This is Me 🤚 </h2>
+<p align="center">티스토리 </p>
 <p align="center"><a href="https://hmk1022.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
-<p>velog로 이전중...</p>
+<p align="center">velog로 이전중...</p>
 <p align="center"><a href="https://velog.io/@dbfudgudals">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"

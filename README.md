@@ -5,6 +5,12 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
+<p>velog로 이전중...</p>
+<p align="center"><a href="https://velog.io/@dbfudgudals">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></p>
 
 <h3 align="center"> Interest </h2>
 <p align="center">새로운 것을 만드는 것에 흥미가 있습니다.<br/>임계점을 넘었을 때 보이는 폭발적인 성장에 흥미가 있습니다.</p> 

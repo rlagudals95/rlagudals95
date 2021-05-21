@@ -14,7 +14,7 @@
 </a></p>
 
 <h3 align="center"> Interest </h2>
-<p align="center">새로운 것을 만드는 것에 흥미가 있습니다.<br/>임계점을 넘었을 때 보이는 폭발적인 성장에 흥미가 있습니다.</p> 
+<p align="center">비법은 없고 '정도'는 있는 것 같습니다.</p> 
 
 <h3 align="center"> Strength </h2>
 <p align="center">Always like learning something new.<br/></p> 

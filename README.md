@@ -42,8 +42,8 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>    
      <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
-    
-     <img src="https://img.shields.io/badge/-Next.js-yellowgreen"/>
+       <img src="https://img.shields.io/badge/Nextjs-0769AD?style=flat-square&logo=Nextjs&logoColor=green"/>
+  
 <br/>
          
 <h3> - I've used at least once - </h3>
@@ -53,6 +53,8 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 
+        
+    
 </div>
 
 <br/>

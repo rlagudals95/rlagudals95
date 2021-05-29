@@ -54,6 +54,16 @@
      <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
        <img src="https://img.shields.io/badge/Nextjs-0769AD?style=flat-square&logo=Nextjs&logoColor=green"/>
         
+  
+<h3> - Design Software Programs - </h3>
+    
+
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF"/>
+<img src="https://img.shields.io/badge/Figma-%23F24E1E"/>
+    
+    
+    
     
 </div>
 

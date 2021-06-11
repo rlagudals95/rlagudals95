@@ -13,7 +13,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<h3 align="center"> Interest </h2>
+
 <p align="center">비법은 없고 '정도'는 있는 것 같습니다.</p> 
 
 <h3 align="center"> Strength </h2>

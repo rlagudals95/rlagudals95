@@ -9,8 +9,6 @@
 
 <p align="center">비법은 없고 '정도'는 있는 것 같습니다.</p> 
 
-<h3 align="center"> Strength </h2>
-<p align="center">Always like learning something new.<br/></p> 
 
     
 <div align="center" style="display:flex">

@@ -12,9 +12,9 @@
 
     
 <div align="center" style="display:flex">
-    
+<!--     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlagudals95&show_icons=true&count_private=true&theme=nightowl&hide=prs,issues)
-
+ -->
 </div>
 <br/>
 <h2 align="center"> 🛠 Tech Stack 🛠 </h2>

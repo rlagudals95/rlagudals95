@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <br/>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>    
 
   
@@ -43,7 +43,8 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-     <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
        <img src="https://img.shields.io/badge/Nextjs-0769AD?style=flat-square&logo=Nextjs&logoColor=green"/>
         
   

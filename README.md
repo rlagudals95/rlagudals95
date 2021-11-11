@@ -7,14 +7,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
 
-<p align="center"><a href="
-https://hmk1022.tistory.com/entry/%EC%9D%B4%EB%8B%88%EC%8B%9C%EC%8A%A4-%EC%95%84%EC%9E%84%ED%8F%AC%ED%8A%B8-%EA%B2%B0%EC%A0%9C-%EC%97%B0%EB%8F%99">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
-
-
 <p align="center">비법은 없고 '정도'는 있는 것 같습니다.</p> 
 
 

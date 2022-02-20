@@ -1,7 +1,7 @@
 
 <br/>
 <br/>
-<p align="center"><a href="https://velog.io/@dbfudgudals">
+<p align="center"><a href="https://hmk1022.tistory.com/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>

@@ -6,10 +6,6 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
-
-<p align="center">비법은 없고 '정도'는 있는 것 같습니다.</p> 
-
-
     
 <div align="center" style="display:flex">
      

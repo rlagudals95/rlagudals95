@@ -11,7 +11,7 @@
 <br/>
 
 
-<a href="https://sparkling-abacus-b5e.notion.site/08f4adc0b4ab43fd88bbd0a03f8d0b95?pvs=4" target="_blank"><h2 align="center">Resume</h2></a>
+<a href="https://sparkling-abacus-b5e.notion.site/08f4adc0b4ab43fd88bbd0a03f8d0b95?pvs=4"><h2 align="center">Resume</h2></a>
 
 
 <br/>

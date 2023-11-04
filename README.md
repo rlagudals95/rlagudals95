@@ -6,6 +6,15 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></p>
+
+
+<br/>
+
+
+<h2 align="center"> Resume </h2>
+<a>https://sparkling-abacus-b5e.notion.site/08f4adc0b4ab43fd88bbd0a03f8d0b95?pvs=4</a>
+
+<br/>
     
 <div align="center" style="display:flex">
      

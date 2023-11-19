@@ -1,4 +1,4 @@
-# 김형민 *HyeongMin Kim*
+# 김형민 *HyeongMin Kim*
 👩‍💻 Frontend Developer  
   
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -9,7 +9,7 @@
 **오후랩스** @OHOO labs <sub><sup>구매대행 솔루션 오후스프링 및 해외셀러를 위한 이미지 번역 에디터 오후스튜디오 개발 (2022.04 ~ now)</sup></sub>  
 
 ---
-**워커맨** @Daangn <sub><sup>수리정비 O2O 서비스 개발(2021.06 ~ 2022.04)</sup></sub>  
+**워커맨** @Workerman <sub><sup>수리정비 O2O 서비스 개발(2021.06 ~ 2022.04)</sup></sub>  
 
   
 <br>

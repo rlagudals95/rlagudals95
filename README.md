@@ -1,50 +1,23 @@
+# 김형민 *HyeongMin Kim*
+👩‍💻 Frontend Developer  
+  
+[![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+  
+✨ *For More Info...* **[BLOG](https://hmk1022.tistory.com/)** | **[RESUME]([https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1](https://www.figma.com/file/BbukNieJ83zhgBswp6DYVJ/%EA%B9%80%ED%98%95%EB%AF%BC-resume?type=design&node-id=0-1&mode=design))**
 
-<br/>
-<br/>
-<p align="center"><a href="https://hmk1022.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=Vimeo&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
+**오후랩스** @OHOO labs <sub><sup>구매대행 솔루션 오후스프링 및 해외셀러를 위한 이미지 번역 에디터 오후스튜디오 개발 (2022.04 ~ now)</sup></sub>  
 
+---
+**워커맨** @Daangn <sub><sup>수리정비 O2O 서비스 개발(2021.06 ~ 2022.04)</sup></sub>  
 
-<br/>
+  
+<br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdanmin20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h2 align="center"><a href="https://sparkling-abacus-b5e.notion.site/08f4adc0b4ab43fd88bbd0a03f8d0b95?pvs=4">Resume</a></h2>
+<div>
+  
+  ![github stats](https://github-readme-stats.vercel.app/api?username=danmin20)
 
-
-<br/>
-<h2 align="center"> 🛠 Tech Stack 🛠 </h2>
-
-<div align="center" style="display:flex">
-     <h3> - Mainly used - </h3>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-0769AD?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-
-    
-    
-    
 </div>
-
-<br/>
-
-<br/>
-
-<h2 align="center"> 📲 Contact 📱 </h2>
-
-<p align="center">
-<a href="mailto:@gmail.com">
-    <img 
-        src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a></p>
-
-<br/>
-
-<!---
-hmk1022/hmk1022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

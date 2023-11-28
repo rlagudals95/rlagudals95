@@ -11,6 +11,11 @@
 ---
 **워커맨** @Workerman <sub><sup>시설정비 O2O 서비스 개발(2021.06 ~ 2022.04)</sup></sub>  
 
+---
+
+**멋쟁이 사자처럼** @Workerman <sub><sup>ESTsoft externship 보조강사(2022.09 ~ 2022.11)</sup></sub>
+**스파르타 코딩클럽** @Workerman <sub><sup>부트캠프 실전프로젝트 멘토링(2022.11 ~ 2022.12)</sup></sub>
+**항해99** @Workerman <sub><sup>부트캠프 프론트엔드 과정 1기 수료(2021.03 ~ 2021.7)</sup></sub>
   
 <br>
 

@@ -4,7 +4,7 @@
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
   
-✨ *For More Info...* **[BLOG](https://hmk1022.tistory.com/)** | **[RESUME](https://www.figma.com/file/BbukNieJ83zhgBswp6DYVJ/%EA%B9%80%ED%98%95%EB%AF%BC-resume?type=design&node-id=0%3A1&mode=design&t=fVZvDGpE1IHWu3uF-1)**
+✨ *For More Info...* **[BLOG](https://hmk1022.tistory.com/)** | **[[RESUME](https://www.figma.com/file/5VXlHh24uKPKwj9SrnHHTC/resume_v2?type=design&node-id=1-2&mode=design&t=GO7sawxCBKB7lkWB-0)]**
 
 **오후랩스** @OHOO labs <sub><sup>구매대행 솔루션 오후스프링 및 해외셀러를 위한 이미지 번역 에디터 오후스튜디오 개발 (2022.04 ~ now)</sup></sub>  
 

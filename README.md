@@ -6,18 +6,12 @@
   
 ✨ *For More Info...* **[BLOG](https://hmk1022.tistory.com/)** | **[RESUME](https://www.figma.com/file/LoYxatJqMuYn3QdpdF9jnJ/resume_v3?type=design&mode=design&t=b5wMQ5ln7a5bxaix-0)**
 
-**오후랩스** @OHOO labs <sub><sup>구매대행 솔루션 오후스프링 및 해외셀러를 위한 이미지 번역 에디터 오후스튜디오 개발 (2022.04 ~ now)</sup></sub>  
+**오후랩스** @OHOO labs <sub><sup>구매대행 솔루션 오후스프링 및 해외셀러를 위한 이미지 번역 에디터 오후스튜디오 개발 (2022.04 ~ 2024.09.30)</sup></sub>  
 
 ---
 **워커맨** @Workerman <sub><sup>시설정비 O2O 서비스 개발(2021.06 ~ 2022.04)</sup></sub>  
 
----
 
-**한국방송통신대학** @knou <sub><sup>컴퓨터과학과</sup></sub>
-
----
-
-**항해99** @hanghae99 <sub><sup>부트캠프 프론트엔드 과정 1기 수료(2021.03 ~ 2021.7)</sup></sub>
   
 <br>
 

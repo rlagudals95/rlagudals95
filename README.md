@@ -6,7 +6,7 @@
   
 ✨ *For More Info...* **[BLOG](https://hmk1022.tistory.com/)** | **[RESUME](https://www.figma.com/file/LoYxatJqMuYn3QdpdF9jnJ/resume_v3?type=design&mode=design&t=b5wMQ5ln7a5bxaix-0)**
 
-**moyo** @moyo <sub><sup>통신슈퍼앱 개발 (2024.10 ~ )</sup></sub>  
+**moyo** @Moyo <sub><sup>통신슈퍼앱 개발 (2024.10 ~ )</sup></sub>  
 
 ---
 
